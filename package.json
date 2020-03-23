@@ -1,0 +1,19 @@
+{
+  "name": "setup-project",
+  "version": "1.0.0",
+  "description": "learn setting up react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djlalwet/setup-project.git"
+  },
+  "author": "Daniel John Lalwet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djlalwet/setup-project/issues"
+  },
+  "homepage": "https://github.com/djlalwet/setup-project#readme"
+}
